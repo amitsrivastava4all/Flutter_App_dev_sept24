@@ -1,0 +1,12 @@
+Maths
+1. Prime Number
+2. Even odd
+3. Armstrong number
+4. Peterson Number
+5. Factorial of a Number
+6. Sum of Series 1/1! + 2 / 2! + n/N!
+7. Sum of Digit = 123 = 1 +2 +3 = 6
+8. Swap First and Last Digit  = 1234 o/p 4321
+9. Reverse a number 1234 = 4321
+10. Palindrome Number 121 , yes 
+123 , no
